@@ -13,11 +13,10 @@
 <div align="center">
     <a href="https://github.com/NYC0326" target="_blank"><img src="https://img.shields.io/badge/Github-181717?&logo=Github&logoColor=white"/></a>
     <a href="https://www.instagram.com/nam_yc326/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white"/></a>
-</div><br># 3junsang
-
-
-![NYC0326's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYC0326&show_icons=true&theme=tokyonight)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bryan0326)](https://solved.ac/bryan0326)
+    
+    ![NYC0326's GitHub stats](https://github-readme-stats.vercel.app/api?username=NYC0326&show_icons=true&theme=tokyonight)  
+    [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=bryan0326)](https://solved.ac/bryan0326)
+</div><br># 
 
 <!--
 **NYC0326/NYC0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
