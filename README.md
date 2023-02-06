@@ -1,4 +1,4 @@
-### Hi there 👋
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=tokyonight) 
 
 <!--
 **NYC0326/NYC0326** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
